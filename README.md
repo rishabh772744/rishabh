@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sinha</h1>
-<h3 align="center">Senior @ Manipal University, Jaipur</h3>
+<h3 align="center">Advance ASE @ Accenture Technologies Pvt Ltd</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh772744&theme=chalk&no-frame=true" alt="rishabh772744" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **WebDev, Design, Data Analysis, Data Management**
 
-- 📫 Reach me at **rishabh.189202005@muj.manipal.edu**
+- 📫 Reach me at **rishabh772744@gmail.com**
 
 - ⚡ Fun fact **Hell hath no fury like me when I am slightly inconvenienced and/or hungry**
 
